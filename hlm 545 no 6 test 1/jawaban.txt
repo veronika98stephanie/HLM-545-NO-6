@@ -1,0 +1,4 @@
+The donations, sorted in ascending order are: 
+0 1 2 3 4 5 6 7 8 9 10 12 42 53 86 
+The donations, in their original order are: 
+1 2 3 4 5 6 7 8 9 10 12 42 86 0 53 
